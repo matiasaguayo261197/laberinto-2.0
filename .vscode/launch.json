@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/matias.aguayo/laberinto-2.0",
-      "program": "c:/Users/matias.aguayo/laberinto-2.0/build/Debug/outDebug",
+      "cwd": "c:/Users/m_agu/Desktop/Proyectos/laberinto-2.0",
+      "program": "c:/Users/m_agu/Desktop/Proyectos/laberinto-2.0/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
